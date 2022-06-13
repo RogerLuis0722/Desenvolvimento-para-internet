@@ -1,0 +1,79 @@
+.e1_15 { 
+	overflow:hidden;
+}
+.e1_15 { 
+	background-color:rgba(54.18750151991844, 51.974849849939346, 51.974849849939346, 1);
+	width:2000px;
+	height:1500px;
+	position:absolute;
+	left:-10px;
+	top:-100px;
+}
+
+.e69_11 { 
+	box-shadow:10px 10px 10px rgba(255, 0, 0, 1);
+	background-color:rgba(0, 0, 0, 1);
+	width:1385px;
+	height:92px;
+	position:absolute;
+	left:200px;
+	top:800px;
+}
+.e105_3 { 
+	box-shadow:10px 10px 10px rgba(255, 0, 0, 1);
+	background-color:rgba(0, 0, 0, 1);
+	width:306px;
+	height:92px;
+	position:absolute;
+	left:720px;
+	top:1170px;
+}
+.e102_2 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(255, 255, 255, 1);
+	width:376px;
+	height:53px;
+	position:absolute;
+	left:350px;
+	top:830px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e105_2 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(255, 255, 255, 1);
+	width:427px;
+	height:53px;
+	position:absolute;
+	left:1010px;
+	top:830px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e105_4 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(255, 255, 255, 1);
+	width:183px;
+	height:53px;
+	position:absolute;
+	left:800px;
+	top:1200px;
+	font-family:Inter;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e105_5 { 
+	width:769px;
+	height:324px;
+	position:absolute;
+	left:500px;
+	top:200px;
+	background-image:url(página\ 2/nissan_gtr_2019_4k_zd_2560x1080_removebg_preview_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
